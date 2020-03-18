@@ -43,6 +43,7 @@ function handleText(textNode)
 	v = v.replace(/\bCoronaVirus\b/g, "Boomer-Remover");
 	v = v.replace(/\bcoronavirus\b/g, "boomer-remover");
 	v = v.replace(/\bCovid-19\b/g, "SwineFlu-2.0");
+	v = v.replace(/\bCOVID-19\b/g, "SwineFlu-2.0");
 	v = v.replace(/\bcovid-19\b/g, "swineflu-2.0");
 	v = v.replace(/\bSocial Distancing\b/g, "Tag, Not-It");
 	v = v.replace(/\bsocial distancing\b/g, "tag, not-it");
