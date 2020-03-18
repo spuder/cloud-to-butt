@@ -39,9 +39,9 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bCoronavirus\b/g, "Cooties");
-	v = v.replace(/\bCoronaVirus\b/g, "Cooties");
-	v = v.replace(/\bcoronavirus\b/g, "cooties");
+	v = v.replace(/\bCoronavirus\b/g, "Boomer-Remover");
+	v = v.replace(/\bCoronaVirus\b/g, "Boomer-Remover");
+	v = v.replace(/\bcoronavirus\b/g, "boomer-remover");
 	v = v.replace(/\bCovid-19\b/g, "SwineFlu-2.0");
 	v = v.replace(/\bcovid-19\b/g, "swineflu-2.0");
 	v = v.replace(/\bSocial Distancing\b/g, "Tag, Not-It");
