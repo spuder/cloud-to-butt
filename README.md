@@ -1,4 +1,4 @@
-# Coronavirus to Cooties
+# Coronavirus to Boomer-Remover
 
 Getting tired of the oversaturation, paranoina and fearmongering of the CoronaVirus media?
 
@@ -7,7 +7,7 @@ Chrome extension that replaces occurrences of the following words:
 
 |  |  |
 |-------------|---------|
-| Coronavirus | Cooties |
+| Coronavirus | Boomer-Remover |
 | Covid-19 | SwineFlu-2.0 |
 | Social Distancing | Tag, Not-It |
 | Quarantine | Hide and Seek |
