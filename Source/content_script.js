@@ -39,11 +39,19 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bThe Cloud\b/g, "My Butt");
-	v = v.replace(/\bThe cloud\b/g, "My butt");
-	v = v.replace(/\bthe Cloud\b/g, "my Butt");
-	v = v.replace(/\bthe cloud\b/g, "my butt");
-	
+	v = v.replace(/\bCoronavirus\b/g, "Cooties");
+	v = v.replace(/\bcoronavirus\b/g, "cooties");
+	v = v.replace(/\bCovid-19\b/g, "SwineFlu-2.0");
+	v = v.replace(/\bcovid-19\b/g, "swineflu-2.0");
+	v = v.replace(/\bSocial Distancing\b/g, "Tag, Not-It");
+	v = v.replace(/\bsocial distancing\b/g, "tag, not-it");
+	v = v.replace(/\bToilet Paper\b/g, "White Gold");
+	v = v.replace(/\btoilet paper\b/g, "white gold");
+	v = v.replace(/\bThe CDC\b/g, "Your Mom");
+	v = v.replace(/\bthe CDC\b/g, "your mom");
+	v = v.replace(/\bQuarantine\b/g, "Hide and Seek");
+	v = v.replace(/\bquarantine\b/g, "hide and seek");
+
 	textNode.nodeValue = v;
 }
 
